@@ -1,2 +1,0 @@
-#!/bin/bash
-echo 'find . -type d -not -name . | wc -1' >> 11-directories
